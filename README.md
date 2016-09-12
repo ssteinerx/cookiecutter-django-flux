@@ -1,9 +1,12 @@
-# cookiecutter-django-mixin
-Implementation of the cookiecutter-django mixin specification.
+# cookiecutter-django-influx
+
+Implementation of the cookiecutter-django influx specification.
+
+It's called "influx" 'cause its status is still "in flux."  Hahaha.
 
 NOTE: This is a preliminary document -- I'm still thinking about/working out the details.
 
-The idea for the `cookiecutter-django-mixin` project came about during the Django 1.10 update to the [cookiecutter-django][ccd] project.  
+The idea for the `cookiecutter-django-influx` project came about during the Django 1.10 update to the [cookiecutter-django][ccd] project.  
 
 We had a checklist of things that needed to support Django 1.10 before we could proceed and a couple of them were lagging and looked like they might not ever be updated.
 
