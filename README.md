@@ -1,12 +1,16 @@
-# cookiecutter-django-influx
+# cookiecutter-django-flux
 
-Implementation of the cookiecutter-django influx specification.
+> In high-temperature metal joining processes (welding, brazing and soldering), the primary purpose of flux is to prevent oxidation of the base and filler materials. Tin-lead solder (e.g.) attaches very well to copper, but poorly to the various oxides of copper, which form quickly at soldering temperatures.
 
-It's called "influx" 'cause its status is still "in flux."  Hahaha.
+In welding, flux is a compound that prevents oxidation between base and filler materials.
+
+`cookiecutter-django-flux` is a specification that prevents difficulties when merging external dependencies.
+
+These external dependencies do *not* belong in every project, nor should every project be burdened (read *bloated*) with them if they're not needed.
 
 NOTE: This is a preliminary document -- I'm still thinking about/working out the details.
 
-The idea for the `cookiecutter-django-influx` project came about during the Django 1.10 update to the [cookiecutter-django][ccd] project.  
+The idea for the `cookiecutter-django-flux` project came about during the Django 1.10 update to the [cookiecutter-django][ccd] project.  
 
 We had a checklist of things that needed to support Django 1.10 before we could proceed and a couple of them were lagging and looked like they might not ever be updated.
 
